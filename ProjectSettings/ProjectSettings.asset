@@ -678,7 +678,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: 57bd4e8b-100d-4a4a-a3c6-4618b8ff6d9b
   framebufferDepthMemorylessMode: 0
-  projectName: TCG Project (1)
+  projectName: TCG Project
   organizationId: iguana-sea
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
