@@ -1,0 +1,2 @@
+# HDRP Empty Template
+ 
